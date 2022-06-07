@@ -294,7 +294,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero h1 {
   margin: 0 0 10px 0;
   font-size: 60px;
-  
+
   /*font-family: "Satisfy", serif;*/
   color: #fff;
 }
@@ -523,7 +523,7 @@ section {
   color: #82909c;
 }
 .about .image {
-  background: url("../img/me.jpg") center center no-repeat;
+  background: url("../img/andreas.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
